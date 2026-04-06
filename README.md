@@ -1,14 +1,15 @@
-# RunningShoes
+# RunningShoes  
 
 RunningShoes is a full-stack CRUD web application for runners to manage and track their shoe collection and rotation, including comments and rating.  
 The project consists of a React frontend and a Node.js/Express backend with a SQLite database.  
 ---
-## Why I Built This
+## Why I Built This  
 
 I built RunningShoes to solve a common problem among runners – keeping track of shoe rotation and to add notes for each shoe.  
 This project helped me strengthen my full-stack development skills, especially working with REST APIs, state management in React and structuring a backend with Express. 
 ---
-## Preview
+## Preview  
+
 
 ---
 ## Project Overview
@@ -83,9 +84,9 @@ Possible enhancements:
 -	User accounts
 -	Integration with external running APIs (e.g. Strava) for mileage tracking per shoe
 ---
-## Author
+## Author  
 Atte Ampuja - [GitHub]( https://github.com/Atte-A) | [LinkedIn]( https://www.linkedin.com/in/atteampuja/)
 ---
-## License
+## License  
 MIT
 <img width="468" height="636" alt="image" src="https://github.com/user-attachments/assets/59f23f51-0d42-4c6e-99df-bcf92fc9376b" />
