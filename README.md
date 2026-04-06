@@ -31,7 +31,7 @@ Pop-up window for editing shoe (brand, model, price, comments and rating).
 User can toggle between light and dark mode using switch in the top-right corner.
 
 ---
-## 📦 Project Overview 
+## 📦 Product Overview 
 
 This application allows users to:
 -	Add running shoes to their collection
