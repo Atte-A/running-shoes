@@ -1,8 +1,10 @@
 # RunningShoes
+
 RunningShoes is a full-stack CRUD web application for runners to manage and track their shoe collection and rotation, including comments and rating.  
 The project consists of a React frontend and a Node.js/Express backend with a SQLite database.  
 ---
 ## Why I Built This
+
 I built RunningShoes to solve a common problem among runners – keeping track of shoe rotation and to add notes for each shoe.  
 This project helped me strengthen my full-stack development skills, especially working with REST APIs, state management in React and structuring a backend with Express. 
 ---
