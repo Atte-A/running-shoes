@@ -12,6 +12,17 @@ This project helped me strengthen my full-stack development skills, especially w
 ---
 ## Preview  
 
+### Landing Page
+![Landing Page (light)](./docs/screenshots/LandingPageLight.png) 
+
+### Shoe Collection
+![Shoe Collection](./docs/screenshots/List.png)
+
+### Edit Shoe
+![Edit Shoe](./docs/screenshots/Edit.png)
+
+### Dark Mode
+![Landing Page (dark](./docs/screenshots/LandingPageDark.png)
 
 ---
 ## Project Overview 
