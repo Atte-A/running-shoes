@@ -102,12 +102,14 @@ Possible enhancements:
 -	JWT authentication
 -	User accounts
 -	Integration with external running APIs (e.g. Strava) for mileage tracking per shoe
---- 
+---
+
 ## Author  
 
-Atte Ampuja – [GitHub]( https://github.com/Atte-A) | [LinkedIn]( https://www.linkedin.com/in/atteampuja/)
+Atte Ampuja – [GitHub](https://github.com/Atte-A) | [LinkedIn](https://www.linkedin.com/in/atteampuja)
+
 ---
+
 ## License  
 
 MIT
-<img width="468" height="636" alt="image" src="https://github.com/user-attachments/assets/59f23f51-0d42-4c6e-99df-bcf92fc9376b" />
