@@ -3,13 +3,11 @@
 RunningShoes is a full-stack CRUD web application for runners to manage and track their shoe collection and rotation, including comments and rating.    
 The project consists of a React frontend and a Node.js/Express backend with a SQLite database.   
 
----
 ## 🧠 Why I Built This  
 
 I built RunningShoes to solve a common problem among runners – keeping track of shoe rotation and to add notes for each shoe.  
 This project helped me strengthen my full-stack development skills, especially working with REST APIs, state management in React and structuring a backend with Express. 
 
----
 ## 📸 Preview  
 
 The following screenshots demonstrate the main UI states of the application.
@@ -30,7 +28,6 @@ Pop-up window for editing shoe (brand, model, price, comments and rating).
 ![Landing Page (dark)](./docs/screenshots/LandingPageDark.png)
 User can toggle between light and dark mode using switch in the top-right corner.
 
----
 ## 📦 Product Overview 
 
 This application allows users to:
@@ -41,7 +38,6 @@ This application allows users to:
 -	Search and manage shoe data
 Data is persisted using a SQLite database via a REST API built using Express.
 
----
 ## ⚙️ Architecture
 -	Frontend: React (Vite), Material UI
 -	Backend: Node.js, Express
@@ -51,8 +47,6 @@ Data is persisted using a SQLite database via a REST API built using Express.
 Frontend and backend run as separate services during development.
 This project is intended for local development and learning purposes.
 
----
-
 ## ✨ Features
 -	Add, update, delete running shoes (CRUD)
 -	View shoe collection in a structured list
@@ -60,12 +54,13 @@ This project is intended for local development and learning purposes.
 -	Light / Dark mode UI
 -	Responsive Material UI design
 -	REST API integration
-  
----
 
 ## 📡 API Endpoints
+
 Base URL: `http://localhost:3000`
+
 ### Shoes
+
 | Method | Endpoint | Description |
 |------|--------|------------------------|
 |GET | /shoes | Get all shoes |
@@ -73,7 +68,6 @@ Base URL: `http://localhost:3000`
 |POST | /shoes | Create new shoe |
 |PUT | /shoes/:id | Update existing shoe |
 |DELETE | /shoes/:id | Delete shoe |
----
 
 ## Running the Project Locally
 
@@ -110,8 +104,7 @@ Table schema:
 -	price (integer)
 -	comments (text)
 -	grade (integer)
-
----  
+ 
 
 ## 🚧 Future Improvements
   
@@ -119,13 +112,10 @@ Possible enhancements:
 -	JWT authentication
 -	User accounts
 -	Integration with external running APIs (e.g. Strava) for mileage tracking per shoe
----
 
 ## 👤 Author  
 
 Atte Ampuja – [GitHub](https://github.com/Atte-A) | [LinkedIn](https://www.linkedin.com/in/atteampuja)
-
----
 
 ## ⚖️ License  
 
