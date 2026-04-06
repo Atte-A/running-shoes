@@ -1,31 +1,37 @@
-# RunningShoes  
+# 🏃 RunningShoes  
 
 RunningShoes is a full-stack CRUD web application for runners to manage and track their shoe collection and rotation, including comments and rating.    
 The project consists of a React frontend and a Node.js/Express backend with a SQLite database.   
 
 ---
-## Why I Built This  
+## 🧠 Why I Built This  
 
 I built RunningShoes to solve a common problem among runners – keeping track of shoe rotation and to add notes for each shoe.  
 This project helped me strengthen my full-stack development skills, especially working with REST APIs, state management in React and structuring a backend with Express. 
 
 ---
-## Preview  
+## 📸 Preview  
 
-### Landing Page
-![Landing Page (light)](./docs/screenshots/LandingPageLight.png) 
+The following screenshots demonstrate the main UI states of the application.
 
-### Shoe Collection
+### 🏠 Landing Page
+![Landing Page(light)](./docs/screenshots/LandingPageLight.png) 
+The 'GET STARTED' button links to the add shoe form.
+
+### 👟 Shoe Collection
 ![Shoe Collection](./docs/screenshots/List.png)
+Displays all saved running shoes with edit/delete functionality.
 
-### Edit Shoe
+### ✏️ Edit Shoe
 ![Edit Shoe](./docs/screenshots/Edit.png)
+Pop-up window for editing shoe (brand, model, price, comments and rating).
 
-### Dark Mode
-![Landing Page (dark](./docs/screenshots/LandingPageDark.png)
+### 🌙 Dark Mode
+![Landing Page (dark)](./docs/screenshots/LandingPageDark.png)
+User can toggle between light and dark mode using switch in the top-right corner.
 
 ---
-## Project Overview 
+## 📦 Project Overview 
 
 This application allows users to:
 -	Add running shoes to their collection
@@ -36,7 +42,7 @@ This application allows users to:
 Data is persisted using a SQLite database via a REST API built using Express.
 
 ---
-## Architecture
+## ⚙️ Architecture
 -	Frontend: React (Vite), Material UI
 -	Backend: Node.js, Express
 -	Database: SQLite3
@@ -47,7 +53,7 @@ This project is intended for local development and learning purposes.
 
 ---
 
-## Features
+## ✨ Features
 -	Add, update, delete running shoes (CRUD)
 -	View shoe collection in a structured list
 -	Search functionality
@@ -57,7 +63,7 @@ This project is intended for local development and learning purposes.
   
 ---
 
-## API Endpoints
+## 📡 API Endpoints
 Base URL: `http://localhost:3000`
 ### Shoes
 | Method | Endpoint | Description |
@@ -107,7 +113,7 @@ Table schema:
 
 ---  
 
-## Future Improvements
+## 🚧 Future Improvements
   
 Possible enhancements:
 -	JWT authentication
@@ -115,12 +121,12 @@ Possible enhancements:
 -	Integration with external running APIs (e.g. Strava) for mileage tracking per shoe
 ---
 
-## Author  
+## 👤 Author  
 
 Atte Ampuja – [GitHub](https://github.com/Atte-A) | [LinkedIn](https://www.linkedin.com/in/atteampuja)
 
 ---
 
-## License  
+## ⚖️ License  
 
 MIT
