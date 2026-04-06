@@ -76,7 +76,7 @@ Base URL: `http://localhost:3000`
 
 ## Running the Project Locally
 
-### - Backend  
+### Backend  
 
 ```bash
 cd backend
