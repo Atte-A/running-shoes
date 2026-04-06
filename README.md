@@ -44,7 +44,8 @@ Data is persisted using a SQLite database via a REST API built using Express.
 -	Database: SQLite3
 -	Communication: REST API (Axios HTTP requests)
 
-Frontend and backend run as separate services during development.
+Frontend and backend run as separate services during development.  
+
 This project is intended for local development and learning purposes.
 
 ## ✨ Features
