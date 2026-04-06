@@ -124,4 +124,4 @@ Atte Ampuja – [GitHub](https://github.com/Atte-A) | [LinkedIn](https://www.lin
 
 ## ⚖️ License  
 
-MIT
+This product is licensed under the [MIT License](https://opensource.org/licenses/MIT).
