@@ -16,6 +16,10 @@ The following screenshots demonstrate the main UI states of the application.
 ![Landing Page(light)](./docs/screenshots/LandingPageLight.png) 
 The 'GET STARTED' button links to the add shoe form.
 
+### 🏠 Add Shoe
+![Add Shoe)](./docs/screenshots/Add.png) 
+The form for adding new shoe pair.
+
 ### 👟 Shoe Collection
 ![Shoe Collection](./docs/screenshots/List.png)
 Displays all saved running shoes with edit/delete functionality.
